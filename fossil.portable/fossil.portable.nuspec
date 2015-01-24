@@ -3,6 +3,7 @@
   <metadata>
     <id>fossil.portable</id>
     <version>1.30</version>
+    <title>Fossil SCM (Portable)</title>
     <authors>D. Richard Hipp</authors>
     <owners>zippy1981, KidFashion</owners>
     <licenseUrl>http://www.fossil-scm.org/fossil/doc/trunk/COPYRIGHT-BSD2.txt</licenseUrl>
